@@ -119,3 +119,7 @@ article li {
     box-shadow: 0.25rem 0.25rem 0.25rem 0.25rem rgba(0, 0, 0, 0.5);
     border-radius: 1rem;
 }
+
+.plan--highlighted li {
+    color: white;
+}
