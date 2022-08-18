@@ -71,3 +71,8 @@ p::first-letter {
     color: darkblue;
     font-size: 1.5rem;
 }
+
+.main-nav__item > a::after {
+    content: "(Link)";
+    color: red;
+}
