@@ -1,95 +1,21 @@
 body {
-    font-family: 'Roboto', sans-serif;
-    font-size: 1rem;
-    /* display: flex; */
-    background-color: azure;
+    font-family: sans-serif;
 }
 
-.product-overview {
-    background: url(freedom.jpg);
-    color: white;
-    font-family: inherit;
-    padding: 1rem;
-    border-radius: 1rem;
-    border: .25rem darkgrey solid;
-    margin: 0;
-    box-sizing: border-box;
-    height: 100%;
+nav {
+    margin-bottom: 16px;
+    background: #fa923f;
+    padding: 8px 0;
 }
 
-.product-overview h1 {
-    padding: 0.5rem;
-}
-
-.main-nav__items {
-    margin: 0;
-    padding: 0;
-    list-style: none;
-}
-
-.main-header {
-    width: 100%;
-    background-color: coral;
-    padding: 0.5rem 1rem;
-}
-
-.main-nav__item {
-    display: inline-block;
-}
-
-.home-link {
-    display: inline-block;
-    vertical-align: middle;
-}
-
-.main-nav {
-    display: inline-block;
-    vertical-align: middle;
-}
-
-.main-header__brand {
-    color: black;
-    font-size: 2rem;
-    font-weight: bolder;
+a {
     text-decoration: none;
-}
-
-.main-nav__item > a {
-    text-decoration: none;
-    color: black;
-    margin: 0 .2rem;
-    font-weight: bolder;
-}
-
-.main-nav__item > a:hover {
     color: white;
-    border-bottom: .1rem solid white;
+    margin: 10px;
 }
 
-.main-nav__item > a:active {
-    color: green;
-}
-
-p::first-letter {
-    color: darkblue;
-    font-size: 1.5rem;
-}
-
-.main-nav__item > a::after {
-    content: "(Link)";
-    color: red;
-}
-
-.main-nav__item--cta > a {
-    background-color: crimson;
-    padding: .5rem 1rem;
-    font-size: 1.25rem;
-    border-radius: .5rem;
-}
-
-.main-nav__item--cta > a:hover,
-.main-nav__item--cta > a:active {
-    color: rgb(219, 77, 105);
-    background: white;
-    border: none;
+.main-section {
+    height: 800px;
+    border: 1px solid #ccc;
+    padding: 16px;
 }
