@@ -27,4 +27,5 @@ body {
 .main-header {
     width: 100%;
     background-color: coral;
+    padding: 0.5rem 1rem;
 }
