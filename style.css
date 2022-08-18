@@ -10,7 +10,7 @@ body {
     font-family: inherit;
     padding: 1rem;
     border-radius: 1rem;
-    border: .1rem darkgrey solid;
+    border: .25rem darkgrey solid;
 }
 
 .product-overview h1 {
