@@ -33,3 +33,11 @@ body {
 .main-nav__item {
     display: inline-block;
 }
+
+.home-link {
+    display: inline-block;
+}
+
+.main-nav {
+    display: inline-block;
+}
