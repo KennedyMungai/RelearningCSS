@@ -98,4 +98,5 @@ body {
     display: inline-block;
     width: 30%;
     vertical-align: middle;
+    border-radius: 1rem;
 }
