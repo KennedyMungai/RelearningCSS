@@ -20,6 +20,6 @@ body {
     padding: 0.5rem;
 }
 
-a {
+.main-header a {
     text-decoration: none;
 }
