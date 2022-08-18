@@ -19,3 +19,7 @@ body {
 .product-overview h1 {
     padding: 0.5rem;
 }
+
+a {
+    text-decoration: none;
+}
