@@ -6,4 +6,5 @@ body {
 .product-overview {
     background-color: aquamarine;
     color: darkcyan;
+    font-family: inherit;
 }
