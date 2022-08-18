@@ -111,3 +111,10 @@ body {
 article li {
     list-style: none;
 }
+
+.plan__annotation {
+    background: white;
+    color: #19b84c;
+    padding: 1.5rem;
+    box-shadow: 0.25rem 0.25rem 0.25rem 0.25rem rgba(0, 0, 0, 0.5);
+}
