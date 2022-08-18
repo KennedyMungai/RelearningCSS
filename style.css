@@ -20,7 +20,7 @@ body {
     padding: 0.5rem;
 }
 
-.main-header a {
+.main-nav__items {
     text-decoration: none;
 }
 
@@ -28,4 +28,8 @@ body {
     width: 100%;
     background-color: coral;
     padding: 0.5rem 1rem;
+}
+
+.main-nav__item {
+    display: inline-block;
 }
