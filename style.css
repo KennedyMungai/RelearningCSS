@@ -56,5 +56,5 @@ body {
 .main-nav__item > a {
     text-decoration: none;
     color: white;
-    margin: .2rem;
+    margin: 0 .2rem;
 }
