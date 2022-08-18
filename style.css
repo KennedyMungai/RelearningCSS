@@ -139,3 +139,12 @@ article li {
 .plan--highlighted .plan__price {
     color: #0e4f1f;
 }
+
+.button {
+    background-color: #0e4f1f;
+    color: white;
+    border-radius: 0.5rem;
+    font: inherit;
+    border: none;
+    padding: 1rem;
+}
