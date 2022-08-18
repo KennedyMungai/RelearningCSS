@@ -2,6 +2,7 @@ body {
     font-family: 'Roboto', sans-serif;
     font-size: 1rem;
     display: flex;
+    background-color: azure;
 }
 
 .product-overview {
@@ -11,6 +12,7 @@ body {
     padding: 1rem;
     border-radius: 1rem;
     border: .25rem darkgrey solid;
+    margin: 0;
 }
 
 .product-overview h1 {
