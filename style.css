@@ -155,4 +155,5 @@ article li {
 .button:active {
     scale: 1.2;
     background-color: white;
+    color: black;
 }
