@@ -58,3 +58,11 @@ body {
     color: white;
     margin: 0 .2rem;
 }
+
+.main-nav__item > :hover {
+    color: yellow;
+}
+
+.main-nav__item > a:active {
+    color: green;
+}
