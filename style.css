@@ -154,4 +154,5 @@ article li {
 .button:hover,
 .button:active {
     scale: 1.2;
+    background-color: white;
 }
