@@ -23,3 +23,8 @@ body {
 .main-header a {
     text-decoration: none;
 }
+
+.main-header {
+    width: 100%;
+    background-color: coral;
+}
