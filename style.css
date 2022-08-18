@@ -1,7 +1,7 @@
 body {
     font-family: 'Roboto', sans-serif;
     font-size: 1rem;
-    display: flex;
+    /* display: flex; */
     background-color: azure;
 }
 
@@ -13,6 +13,7 @@ body {
     border-radius: 1rem;
     border: .25rem darkgrey solid;
     margin: 0;
+    box-sizing: border-box;
 }
 
 .product-overview h1 {
