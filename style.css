@@ -6,7 +6,7 @@ body {
 }
 
 .product-overview {
-    background-color: coral;
+    background: url(freedom.jpg);
     color: white;
     font-family: inherit;
     padding: 1rem;
@@ -14,6 +14,7 @@ body {
     border: .25rem darkgrey solid;
     margin: 0;
     box-sizing: border-box;
+    height: 100%;
 }
 
 .product-overview h1 {
