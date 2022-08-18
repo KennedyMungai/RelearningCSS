@@ -16,6 +16,7 @@ body {
 
 .section-title {
     color: #2ddf5c;
+    text-align: center;
 }
 
 #product-overview h1 {
@@ -94,7 +95,7 @@ body {
     background: #d5ffdc;
     text-align: center;
     padding: 1rem;
-    margin: 1rem 1  rem;
+    margin: 1rem 1rem;
     display: inline-block;
     width: 30%;
     vertical-align: middle;
