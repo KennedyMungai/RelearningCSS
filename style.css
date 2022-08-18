@@ -55,14 +55,14 @@ body {
 
 .main-nav__item > a {
     text-decoration: none;
-    color: white;
+    color: black;
     margin: 0 .2rem;
     font-weight: bolder;
 }
 
 .main-nav__item > a:hover {
-    color: yellow;
-    border-bottom: .2rem solid white;
+    color: white;
+    border-bottom: .1rem solid white;
 }
 
 .main-nav__item > a:active {
