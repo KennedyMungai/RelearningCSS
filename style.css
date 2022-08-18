@@ -58,6 +58,7 @@ body {
     color: white;
     margin: 0 .2rem;
     font-weight: bolder;
+    border-bottom: .2rem solid white;
 }
 
 .main-nav__item > a:hover {
