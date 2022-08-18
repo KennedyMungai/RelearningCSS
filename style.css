@@ -147,4 +147,11 @@ article li {
     font: inherit;
     border: none;
     padding: 1rem;
+    transition: 0.25s ease;
+    cursor: pointer;
+}
+
+.button:hover,
+.button:active {
+    scale: 1.2;
 }
