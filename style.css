@@ -57,9 +57,10 @@ body {
     text-decoration: none;
     color: white;
     margin: 0 .2rem;
+    font-weight: bolder;
 }
 
-.main-nav__item > :hover {
+.main-nav__item > a:hover {
     color: yellow;
 }
 
