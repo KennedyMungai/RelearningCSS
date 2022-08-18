@@ -1,5 +1,8 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
 .product-overview {
     background-color: aquamarine;
-    font-family: 'Roboto', sans-serif;
     color: darkcyan;
 }
