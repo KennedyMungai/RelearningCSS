@@ -199,3 +199,7 @@ article li {
     border-radius: 50%;
     margin: auto;
 }
+
+.main-footer {
+    background-color: black;
+}
