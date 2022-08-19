@@ -43,3 +43,7 @@
 .premium {
     background-color: green;
 }
+
+.premium h1 {
+    color: white;
+}
