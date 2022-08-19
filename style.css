@@ -164,3 +164,8 @@ article li {
     color: white;
     border: .2rem solid white;
 }
+
+.appraisal__title {
+    color: #19b84c;
+    text-align: center;
+}
