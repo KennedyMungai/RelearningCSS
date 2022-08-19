@@ -9,6 +9,7 @@
 
 .package > a {
     text-decoration: none;
+    padding: 4rem;
 }
 
 .package:hover {
