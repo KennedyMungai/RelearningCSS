@@ -4,6 +4,7 @@
     margin: 1rem .5rem;
     padding: 1rem;
     transition: 0.25s ease;
+    width: 80%;
 }
 
 .package > a {
