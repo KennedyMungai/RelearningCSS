@@ -15,6 +15,7 @@
 .package:hover {
     border: .25rem solid crimson;
     scale: 1.01;
+    box-shadow: .7rem .7rem 1.4rem rgba(0, 0, 0, 0.5);
 }
 
 .package h1 {
