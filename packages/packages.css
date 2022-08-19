@@ -1,4 +1,4 @@
-.plan {
+.package {
     border: .2rem solid grey;
     border-radius: .2rem;
     margin: 1rem .5rem;
@@ -6,26 +6,26 @@
     transition: 0.25s ease;
 }
 
-.plan > a {
+.package > a {
     text-decoration: none;
 }
 
-.plan:hover {
+.package:hover {
     border: .25rem solid crimson;
     scale: 1.01;
 }
 
-.plan h1 {
+.package h1 {
     color: black;
     text-decoration: none;
 }
 
-.plan h2 {
+.package h2 {
     color: gray;
     text-decoration: none;
 }
 
-.plan p {
+.package p {
     border: .1rem solid #e5ffe5;
     padding: 1rem;
     background-color: #e6e6e6;
