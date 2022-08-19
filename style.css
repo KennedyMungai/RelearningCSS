@@ -212,3 +212,8 @@ article li {
     padding: 0;
     text-align: center;
 }
+
+.main-footer__link {
+    display: inline-block;
+    margin: 0 2rem;
+}
