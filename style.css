@@ -171,8 +171,8 @@ article li {
     margin-top: 5rem;
 }
 
-#key-features li {
-    display: inline-block;
+.key-feature__list {
     list-style: none;
-    margin: 2rem;
+    margin: 0;
+    padding: 0;
 }
