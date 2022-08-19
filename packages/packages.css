@@ -22,8 +22,20 @@
 }
 
 .plan p {
-    border: .1rem solid lightgreen;
+    border: .1rem solid #e5ffe5;
     padding: 1rem;
-    background-color: #7fffd491;
+    background-color: #e6e6e6;
 
+}
+
+.plus {
+    background-color: lightcyan;
+}
+
+.free {
+    background-color: lightgoldenrodyellow;
+}
+
+.premium {
+    background-color: green;
 }
