@@ -6,6 +6,10 @@
     transition: 0.25s ease;
 }
 
+.plan > a {
+    text-decoration: none;
+}
+
 .plan:hover {
     border: .25rem solid crimson;
     scale: 1.01;
