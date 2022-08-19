@@ -46,6 +46,7 @@
 
 .free {
     background-color: lightgoldenrodyellow;
+    float: right;
 }
 
 .premium {
@@ -58,4 +59,8 @@
 
 main {
     padding-top: 5rem;
+}
+
+.clearfix {
+    clear: both;
 }
