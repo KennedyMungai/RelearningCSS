@@ -231,6 +231,11 @@ article li {
     border-radius: .5rem;
 }
 
+.main-footer__link > a:active {
+    background-color: black;
+    color: white;
+}
+
 .main-footer__link:hover {
-    scale: 1.05;
+    scale: 1.1;
 }
