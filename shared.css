@@ -13,6 +13,7 @@ body {
     padding: 8px 16px;
     position: fixed;
     box-sizing: border-box;
+    z-index: 20;
 }
 
 .main-header > div {
