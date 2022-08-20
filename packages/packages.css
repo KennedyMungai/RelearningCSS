@@ -9,6 +9,8 @@
 
 .background {
     background: url("../images/plans-background.jpg");
+    width: 10rem;
+    height: 10rem;
 }
 
 .package > a {
