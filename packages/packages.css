@@ -7,6 +7,10 @@
     width: 80%;
 }
 
+.background {
+    background: url("../images/plans-background.jpg");
+}
+
 .package > a {
     text-decoration: none;
     padding: 4rem;
