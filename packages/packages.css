@@ -12,6 +12,7 @@
     width: 50rem;
     height: 50rem;
     position: fixed;
+    z-index: -20;
 }
 
 .package > a {
