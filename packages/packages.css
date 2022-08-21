@@ -46,6 +46,7 @@
     background-color: #e6e6e6;
     border-radius: .5rem;
     font-size: 1.25rem;
+    position: relative;
 }
 
 .plus {
@@ -71,4 +72,14 @@ main {
 
 .clearfix {
     clear: both;
+}
+
+.package__badge {
+    position: absolute;
+    top: 0;
+    right: 0;
+    background-color: goldenrod;
+    padding: 0.5rem;
+    margin-top: 0;
+    margin: .5rem;
 }
