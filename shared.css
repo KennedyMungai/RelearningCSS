@@ -9,7 +9,7 @@ body {
 
 .main-header {
     width: 100%;
-    background: #2ddf5c;
+    background: #2ddf5c80;
     padding: 1.75rem 3rem;
     position: fixed;
     box-sizing: border-box;
