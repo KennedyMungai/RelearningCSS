@@ -10,7 +10,7 @@ body {
 .main-header {
     width: 100%;
     background: #2ddf5c;
-    padding: 8px 16px;
+    padding: 1.75rem 3rem;
     position: fixed;
     box-sizing: border-box;
     z-index: 20;
