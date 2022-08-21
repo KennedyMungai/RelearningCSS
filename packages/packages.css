@@ -78,6 +78,7 @@ main {
     position: absolute;
     top: 0;
     right: 0;
-    background-color: goldenrod;
+    background-color: #f89524;
     padding: 0.5rem;
+    font-size: 1.5rem;
 }
