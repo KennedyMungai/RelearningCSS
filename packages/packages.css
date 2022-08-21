@@ -76,9 +76,8 @@ main {
 
 .package__badge {
     position: absolute;
-    top: 0;
-    right: 0;
     background-color: #f89524;
     padding: 0.5rem;
     font-size: 1.5rem;
+    overflow: hidden;
 }
